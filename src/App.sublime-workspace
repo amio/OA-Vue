@@ -1,0 +1,502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array",
+				"array"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"c",
+				"car"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"h",
+				"homepage"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"a",
+				"appsecret"
+			],
+			[
+				"ur",
+				"urlencode"
+			],
+			[
+				"p",
+				"placeholder	Attr"
+			],
+			[
+				"app",
+				"appId"
+			],
+			[
+				"m",
+				"myinpu"
+			],
+			[
+				"input",
+				"inputArr"
+			],
+			[
+				"ri",
+				"rightAnswer"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"right",
+				"rightAnswer"
+			],
+			[
+				"get",
+				"getUserMedia"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"po",
+				"pos-r	position: relative;"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fl",
+				"fl	float: ${1:left};"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"M",
+				"moveLeft"
+			],
+			[
+				"da",
+				"dataInit"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"co",
+				"cover"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pe",
+		"selected_items":
+		[
+			[
+				"pe",
+				"Package Control: Enable Package"
+			],
+			[
+				"a",
+				"About"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/php/test.json",
+		"/C/Users/shuaigege/Desktop/demo/t1.html",
+		"/C/Users/shuaigege/Desktop/enquire.js-2.1.2/src/MediaQuery.js",
+		"/F/web/index.html",
+		"/C/Users/shuaigege/Desktop/响应式banner，带手指换的特效，自定义设置属性.html",
+		"/C/Users/shuaigege/Downloads/Compressed/明仔PHP零基础(一日通)教程/最全数组例子/最全数组例子.php",
+		"/C/Users/shuaigege/Desktop/jiesuan.html",
+		"/C/Users/shuaigege/Desktop/cart2.html",
+		"/C/Users/shuaigege/Desktop/cart.html",
+		"/C/Users/shuaigege/Downloads/myguests.json",
+		"/C/Users/shuaigege/Desktop/jquery仿天猫点击加入购物车商品飞入购物车代码_素材中国17素材网.html",
+		"/C/Users/shuaigege/Desktop/jquery仿天猫点击加入购物车商品飞入购物车代码_素材中国17素材网_files/h.js",
+		"/C/Users/shuaigege/Desktop/jquery仿天猫商城点击加入购物车按钮商品动画飞到购物车里面效果_素材中国17素材网.html",
+		"/C/Users/shuaigege/Desktop/jquery仿天猫商城点击加入购物车按钮商品动画飞到购物车里面效果_素材中国17素材网_files/jQuery-shopping.js",
+		"/F/应用软件/JsonViewer/Fiddler/JsonViewer.dll",
+		"/F/应用软件/JsonViewer/Fiddler/JsonViewer.pdb",
+		"/F/应用软件/JsonViewer/Fiddler/Newtonsoft.Json.dll",
+		"/F/应用软件/JsonViewer/JsonView/JsonView.exe",
+		"/F/应用软件/JsonViewer/JsonView/JsonViewer.pdb",
+		"/F/应用软件/JsonViewer/JsonView/JsonViewer.dll",
+		"/F/应用软件/JsonViewer/JsonView/Newtonsoft.Json.dll",
+		"/C/Users/shuaigege/Desktop/图片 - 内涵社区(neihanshequ.com)_files/core_a297975.js",
+		"/C/Users/shuaigege/Desktop/SVN/1/game/daqie/js/flyline.js",
+		"/C/Users/shuaigege/Desktop/SVN/1/game/daqie/index.html",
+		"/C/Users/shuaigege/Desktop/图片 - 内涵社区(neihanshequ.com)_files/bds_s_360.js",
+		"/C/Users/shuaigege/Desktop/图片 - 内涵社区(neihanshequ.com)_files/common_1e3acaa.js",
+		"/C/Users/shuaigege/Desktop/图片 - 内涵社区(neihanshequ.com)_files/hl.js",
+		"/C/Users/shuaigege/Desktop/图片 - 内涵社区(neihanshequ.com)_files/hm.js",
+		"/C/Users/shuaigege/Desktop/图片 - 内涵社区(neihanshequ.com)_files/lib_8b2e779.js",
+		"/C/Users/shuaigege/Desktop/图片 - 内涵社区(neihanshequ.com)_files/pagelet_8ff0067.js",
+		"/C/Users/shuaigege/Desktop/SVN/1/game/daqie/js/createjs.min.js",
+		"/C/Users/shuaigege/Desktop/别踩白块儿/index.html",
+		"/C/Users/shuaigege/Desktop/别踩白块儿/Block.js",
+		"/C/xampp/htdocs/web/t1.php",
+		"/C/xampp/htdocs/web/index.html",
+		"/C/xampp/htdocs/web/login/login.php",
+		"/C/Users/shuaigege/Downloads/Compressed/明仔PHP零基础(一日通)教程/PHP基础/PHP基础.html",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.144.4577/index.html",
+		"/C/xampp/htdocs/web/cs.json",
+		"/F/web/t1.php",
+		"/C/Users/shuaigege/Desktop/SVN/1/t1.php",
+		"/C/Users/shuaigege/Desktop/SVN/1/t1.html",
+		"/C/Users/shuaigege/Desktop/demo/t1.php",
+		"/C/Users/shuaigege/Desktop/SVN/1/menu.php",
+		"/C/Users/shuaigege/Desktop/SVN/1/index.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.607.4145/最全数组例子.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.006.2518/PHP基础.html",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.982.966/demo.html",
+		"/F/BaiduYunDownload/4_素材文件及源代码/8微信js-SDK的引入/Sdk/index.html",
+		"/F/BaiduYunDownload/4_素材文件及源代码/8微信js-SDK的引入/SdkController.class.php",
+		"/F/BaiduYunDownload/书籍配套代码/第八章/笑话.php",
+		"/F/BaiduYunDownload/书籍配套代码/第九章/欢迎新朋友.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.297.1117/index.php",
+		"/F/BaiduYunDownload/书籍配套代码/第十二章/秒杀.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.534.3739/weixin.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.271.2489/card.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.169.1397/index.html",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.169.1396/index.html",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.169.1393/index.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.050.3050/微信自定义菜单.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.297.1115/index.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.297.1113/index.php",
+		"/C/Users/shuaigege/Desktop/SVN/1/demo.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.693.1505/menu.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.693.1506/law.php",
+		"/C/Users/shuaigege/Desktop/demo/测试.html",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.514.2439/imooc.php",
+		"/C/Users/shuaigege/Desktop/meun",
+		"/C/xampp/htdocs/demo.php",
+		"/C/Users/shuaigege/Desktop/SVN/1/sample.php",
+		"/C/Users/shuaigege/Desktop/mysql-5.6.24-winx64/README",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.205.4659/weixin_class_sdk.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.807.4073/weixin_php_sdk.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.601.052/index.php",
+		"/C/Users/shuaigege/Desktop/SVN/1/jssdk.php",
+		"/C/Users/shuaigege/Desktop/SVN/1/jsapi_ticket.php",
+		"/F/demo/demo.json",
+		"/C/Users/shuaigege/Desktop/sae.txt",
+		"/C/Users/shuaigege/Desktop/华为 - 更美好的全联接世界.html",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.019.3343/menu.htm",
+		"/C/Users/shuaigege/Desktop/淘宝网 - 淘！我喜欢.html",
+		"/F/demo/demo.php",
+		"/C/Users/shuaigege/Downloads/demo.php",
+		"/C/Users/shuaigege/Desktop/demo/index.html",
+		"/C/Users/shuaigege/Desktop/index/index.html",
+		"/C/Users/shuaigege/Desktop/menu.txt",
+		"/C/Users/shuaigege/Desktop/index.html",
+		"/C/Users/shuaigege/Desktop/menu.php",
+		"/C/Users/shuaigege/Desktop/SVN/1/index.html",
+		"/C/Users/shuaigege/Desktop/微信JS-SDK Demo.html",
+		"/C/Users/shuaigege/Desktop/微信JS-SDK Demo_files/demo.js",
+		"/C/Users/shuaigege/Desktop/1/sample.php",
+		"/C/Users/shuaigege/Desktop/weixin/index.html",
+		"/C/Users/shuaigege/Desktop/2/sample.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.028.2327/index.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.787.3377/index.php",
+		"/C/Users/shuaigege/Desktop/index.php",
+		"/C/Users/shuaigege/Desktop/weixin.txt",
+		"/C/Users/shuaigege/Desktop/in/index.php",
+		"/C/Users/shuaigege/Desktop/in/menu.php",
+		"/C/Users/shuaigege/Desktop/in/jssdk.php",
+		"/C/Users/shuaigege/Desktop/in/sample.php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.767.4162/index.php",
+		"/C/Users/shuaigege/Desktop/SVN/1/access_token.php",
+		"/C/Users/shuaigege/Desktop/SVN/1/weui.php",
+		"/C/Users/shuaigege/Desktop/responsive-nav.js-master/responsive-nav.js",
+		"/C/Users/shuaigege/Desktop/SVN/1/js/example.js",
+		"/C/Users/shuaigege/Desktop/WeUI.html",
+		"/C/Users/shuaigege/Desktop/SVN/1/lala.php",
+		"/C/Users/shuaigege/Desktop/SVN/1/sample.html",
+		"/C/Users/shuaigege/Desktop/SVN/1/js/router.min.js",
+		"/C/Users/shuaigege/Desktop/SVN/1/access_token (2).php",
+		"/C/Users/shuaigege/AppData/Local/Temp/HZ$D.083.094/wx_sample.php",
+		"/C/Users/shuaigege/Desktop/view-source_203.195.235.76_jssdk_js_demo.js",
+		"/C/Users/shuaigege/Desktop/demo/C5_T2_S2.html",
+		"/D/我的文档/914401482/FileRecv/resource/C5_T2_S2.html",
+		"/D/我的文档/914401482/FileRecv/C5_T2_S2.html",
+		"/G/CLASSROOM/E/BaiduYunDownload/WeX5_V3.3_edu/model/UI2/demo/sample/table/basic/basicthree.js",
+		"/G/CLASSROOM/C/Users/Administrator/AppData/Roaming/npm/node_modules/phonegap/node_modules/cordova/node_modules/cordova-lib/node_modules/cordova-js/node_modules/browserify/test/entry/three.js",
+		"/C/Users/shuaigege/Desktop/demo/userData_JSON.php",
+		"/C/Users/shuaigege/Desktop/demo/demo1.html",
+		"/C/Users/shuaigege/Desktop/demo1.html",
+		"/C/Users/shuaigege/Downloads/lx.html",
+		"/C/Users/lzs/Desktop/NNCD/css/layout.css",
+		"/C/Users/lzs/Desktop/NNCD/demo.html",
+		"/C/Users/lzs/Desktop/NNCD/index.html",
+		"/C/Users/lzs/Desktop/SVN/1/index2.html",
+		"/C/Users/lzs/Desktop/ftp.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"loading-more",
+			"loadM",
+			"load",
+			"loadMore",
+			"#",
+			"cell",
+			"cell block",
+			"二",
+			"二维",
+			"二",
+			"_GET",
+			"你发",
+			"app_menu",
+			"if",
+			"iframe",
+			"div",
+			"6",
+			"scancode_push",
+			"卡",
+			"位置",
+			"券",
+			"share",
+			"Router",
+			"voice",
+			"startRecord",
+			"设备",
+			"nMenuShareTim",
+			"share",
+			"//",
+			"url",
+			"AppID",
+			"yourAppID",
+			"url",
+			"appId",
+			"wechatCallbackapiTest",
+			"paly",
+			"palyv",
+			"voi",
+			"onMenuShareAppMessage",
+			"var i",
+			"right_a",
+			"td",
+			"getUserMedia",
+			"scamera",
+			"contentLeft",
+			">\n",
+			"\n<",
+			">\n",
+			"white"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
