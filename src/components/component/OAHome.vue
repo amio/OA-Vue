@@ -48,7 +48,7 @@ export default {
   },
     methods: {
                 move: function (src) {
-                    console.log(src)
+                    console.log(tabdata)
                 }
             }
   }  

@@ -1,11 +1,12 @@
 <template>
   <div id="OATabs">
     <el-tabs type="card" :closable="true" @tab-click="handleClick" @tab-remove="handleRemove">
-      <el-tab-pane label="个人主页" :closable="false">
-        <OAHome></OAHome>
+      <el-tab-pane label="个人主页" :closable="false" v-if="">
+      <OAHome></OAHome>
       </el-tab-pane>
-      <el-tab-pane v-for="data in tablist" label="data.msg">
-        {{{data.template}}}
+      <el-tab-pane v-for="data in tablist" :label="data.msg">
+          <component v-bind:is="data.currentView" :tablist="tablist" >
+          </component>
       </el-tab-pane>
   </div>
 </template>
@@ -25,18 +26,18 @@
     },
     methods: {
       handleRemove(tab) {
-        console.log(tab);
+      
       },
       handleClick(tab, event) {
-        console.log(tab, event);
+       
       }
     },
     data() {
       return {
         tablist: [
-            {msg: '配置管理',template: '<OAHome></OAHome>'},
-            {msg: '角色管理',template: '<AccessoriesManagement></AccessoriesManagement>'},
-            {msg: '定时任务补偿',template: '<TaskCompensation></TaskCompensation>'}
+            {msg: '配置管理',currentView: 'RoleManagement'},
+            {msg: '客户管理',currentView: 'AccessoriesManagement'},
+            {msg: '定时任务补偿',currentView: 'TaskCompensation'}
               ]
       };  
   },

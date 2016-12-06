@@ -24,6 +24,13 @@ export default {
     OATabs
   }
 }
+// 导航数据
+var tabdata={tablist: [
+            {msg: '配置管理',currentView: 'RoleManagement'},
+            {msg: '客户管理',currentView: 'AccessoriesManagement'},
+            {msg: '定时任务补偿',currentView: 'TaskCompensation'}
+              ]
+      };  
 </script>
 
 <style>
