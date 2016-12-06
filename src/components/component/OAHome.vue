@@ -36,22 +36,24 @@
 </template>
 
 <script>
+import bus from '../../bus'
 export default {
-  name: 'OAHome',
-  data() {
-    return {
-        work: [
-            {msg: '用款申请'},
-            {msg: '管理用款'}
-                ]
-      };  
-  },
+    name: 'OAHome',
+    data() {
+        return {
+            work: [
+                {msg: '用款申请'},
+                {msg: '管理用款'}
+            ]
+        };
+    },
     methods: {
-                move: function (src) {
-                    console.log(tabdata)
-                }
-            }
-  }  
+        move: function (src) {
+            console.log('$emit openTab', src)
+            bus.$emit('openTab', src)
+        }
+    }
+}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

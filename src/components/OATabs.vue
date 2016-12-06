@@ -12,6 +12,7 @@
 </template>
 
 <script>
+  import bus from '../bus'
   import OAHome from './component/OAHome'
   import AccessoriesManagement from './component/AccessoriesManagement'
   import RoleManagement from './component/RoleManagement'
@@ -26,11 +27,20 @@
     },
     methods: {
       handleRemove(tab) {
-      
       },
       handleClick(tab, event) {
-       
       }
+    },
+    created: function () {
+      const vm = this
+      bus.$on('openTab', function (tabName) {
+        console.log('$on openTab', tabName)
+        // TODO: 避免重复
+        vm.$data.tablist.push({
+          msg: tabName,
+          currentView: 'RoleManagement'
+        })
+      })
     },
     data() {
       return {
@@ -38,8 +48,8 @@
             {msg: '配置管理',currentView: 'RoleManagement'},
             {msg: '客户管理',currentView: 'AccessoriesManagement'},
             {msg: '定时任务补偿',currentView: 'TaskCompensation'}
-              ]
-      };  
+        ]
+      };
   },
   }
 </script>
