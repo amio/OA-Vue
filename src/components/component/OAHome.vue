@@ -9,6 +9,9 @@
           <div class="workParty-center" id="myWorkBody" >
             <div class="div-mywork" v-for="data in work" v-on:click="move(data.msg)">{{data.msg}}</div>
           </div>
+          <div style="padding: 4em">
+            <vtree :model="treeData" :onNodeClick="onTreeClick" />
+          </div>
         </div>
       </el-col>
       <el-col :span="8">
@@ -37,6 +40,7 @@
 
 <script>
 import bus from '../../bus'
+import vtree from './vtree'
 export default {
     name: 'OAHome',
     data() {
@@ -44,13 +48,33 @@ export default {
             work: [
                 {msg: '用款申请'},
                 {msg: '管理用款'}
-            ]
+            ],
+            treeData: {
+              name: '一级菜单',
+              open: true,
+              children: [
+                { name: '二级A' },
+                { name: '二级B' },
+                {
+                  name: '二级C',
+                  children: [
+                    { name: '三级A' }
+                  ]
+                }
+              ]
+            }
         };
+    },
+    components: {
+      vtree
     },
     methods: {
         move: function (src) {
             console.log('$emit openTab', src)
             bus.$emit('openTab', src)
+        },
+        onTreeClick: function (nodeData) {
+          console.log(nodeData.name, 'clicked.')
         }
     }
 }
